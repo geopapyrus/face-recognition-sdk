@@ -2,7 +2,13 @@
 
 ## Overview
 
- Add a **face recognition login** feature to your iOS app.
+ Add a ** face recognition login ** feature to your iOS app.
+ 
+## How to use
+ 
+ Follow the instructions on **_sdk_exampleViewController.mm_**
+ 
+ Basically you'll have to store the current user login information in a special key on a **_NSUserDefaults_** entry after the first time the user logs in. When the user signs out, the app moves this data safely inside the app from this current key to a secret one. Now, when the user tries to login using his face, the app will validate his session and move the login data back to the default key in the app, dimissing the login view.
 
 ## Live demo
 
