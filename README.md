@@ -2,7 +2,7 @@
 
 ## Overview
 
- Add a ** face recognition login ** feature to your iOS app.
+ Add a **face recognition login** feature to your iOS app.
 
 ## Live demo
 
