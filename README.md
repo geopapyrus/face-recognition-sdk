@@ -21,6 +21,6 @@
 
 ## Screenshots
 
-![screen1 icon](http://geopapyrus.com/s1.png)![screen2 icon](http://geopapyrus.com/s2.png)
+![screen1 icon](http://geopapyrus.com/s2.png)![screen2 icon](http://geopapyrus.com/s1.png)
 
 
