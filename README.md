@@ -2,7 +2,7 @@
 
 ## Overview
 
- Add a ** face recognition login ** feature to your iOS app.
+ Add a **face recognition login** feature to your iOS app and let your users authenticate without typing passwords or connecting to social networks.
  
 ## How to use
  
