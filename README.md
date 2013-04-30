@@ -14,7 +14,7 @@
 
  Download the GeoPapyrus app to see it in action  <https://itunes.apple.com/us/app/geopapyrus/id603735261?mt=8>
  
-## Doubts
+## Doubts?
  
  Drop us a line at support@geopapyrus.com
 
